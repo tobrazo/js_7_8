@@ -1,0 +1,15 @@
+
+.content{
+
+	border: solid 1px #ddd;
+	width: 400px;
+	position: absolute;
+	left: 500px;
+	margin-top: 10px;
+	background-color: #eee;
+	
+} 
+
+#Home {
+	padding-left: 500px;
+}

@@ -1,0 +1,30 @@
+
+.wrapper{
+	width: 400px;
+	position: absolute;
+	top: 100px;
+	left: 300px;
+	border: 1px solid #bbb;
+	padding: 20px;
+	background-color: #aaa;
+	border-radius: 5px;
+}
+
+
+
+.test{
+	border: 2px solid #ccc;
+	width:100px;
+	background-color: #eee;
+}
+
+.ui-helper-hidden-accessible {
+border: 0;
+clip: rect(0 0 0 0);
+height: 1px;
+margin: -1px;
+overflow: hidden;
+padding: 0;
+position: absolute;
+width: 1px;
+}
